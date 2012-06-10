@@ -1,11 +1,15 @@
 Install_Ident
 -------------
 
+WARNING: This package is currently VERY alpha and is under heavy development.
+
 Install_Ident is a set of classes that allow you to identify installations of certain server-side
 software such as online-shops, cms, blogs etc. within a given directory.
 
 Install_Ident can recognize the following systems:
-- Wordpress
+- Wordpress* 
 - Joomla
-- OXID eSales
-- REDAXO
+- OXID eSales*
+- REDAXO*
+
+* not yet, but soon.
