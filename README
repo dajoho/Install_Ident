@@ -1,0 +1,11 @@
+Install_Ident
+-------------
+
+Install_Ident is a set of classes that allow you to identify installations of certain server-side
+software such as online-shops, cms, blogs etc. within a given directory.
+
+Install_Ident can recognize the following systems:
+- Wordpress
+- Joomla
+- OXID eSales
+- REDAXO
